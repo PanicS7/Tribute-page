@@ -1,0 +1,7 @@
+Improved code: added navigation,footer and biography, used flexbox for responsible design
+
+Path for Responsive Web Design certification on freeCodeCamp
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+1. 3 green lines at top left corner is for checking if code is passed test
+2. For test suite select "Tribute Page"
+3. If test dont work enable Cookies at your browser settings
